@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(135deg, #f37777, #02114c);
+    height: 100vh;
+    color: white;
+    padding: 20px;
+    margin: auto;
+}
+  
+h1 {
+    color: rgb(0, 3, 4);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+    margin-top: 10px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+  
