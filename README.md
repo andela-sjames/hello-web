@@ -1,4 +1,4 @@
-# Beginner Web Dev Course for svjames.com
+# Beginner Web Dev Course for [svjames.com](https://svjames.com/courses)
 
 
 ## Module 1: Hello Web - Personal Intro Page
