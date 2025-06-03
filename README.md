@@ -1,7 +1,7 @@
 # Beginner Web Dev Course for svjames.com
 
-```markdown
-# Hello Web - Personal Intro Page
+
+## Hello Web - Personal Intro Page
 
 Welcome to your very first web project! In this beginner-friendly module, you'll learn the basics of HTML and CSS by building a personal introduction webpage.
 
@@ -13,11 +13,12 @@ Welcome to your very first web project! In this beginner-friendly module, you'll
 
 ## 📁 Project Structure
 
+```markdown
 hello-web-intro/
 ├── index.html     # Your main web page
 └── style.css      # Your custom styles
+```
 
-````
 
 ## 🚀 Getting Started
 
